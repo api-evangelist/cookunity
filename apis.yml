@@ -1,8 +1,15 @@
 aid: cookunity
 name: Cookunity
-description: Cookunity is a company surfaced as a portfolio company of general-catalyst, insight-partners
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: CookUnity is the first chef-to-consumer meal marketplace, connecting award-winning
+  chefs with food lovers nationwide. Chefs craft restaurant-quality meals in local kitchens
+  and deliver them fresh, ready to heat in two minutes, with more than 300 rotating dishes
+  spanning a wide range of cuisines and dietary options (keto, vegan, paleo, high-protein,
+  gluten-free and more). Subscribers choose four to sixteen meals per week on a flexible
+  weekly plan. The company also runs a chef marketplace onboarding culinary entrepreneurs,
+  a CookUnity for Business program for corporate, healthcare and education clients, and
+  gift cards. CookUnity is a consumer brand and does not publish a public developer API;
+  this profile tracks its public web, identity, and domain-security surface. It was surfaced
+  as a portfolio company of General Catalyst and Insight Partners.
 url: https://raw.githubusercontent.com/api-evangelist/cookunity/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +18,30 @@ x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://static.cookunity.com/growth/media/cui-default.jpg
 tags:
 - Company
+- Meal Delivery
+- Food
+- Marketplace
+- Subscription
+- Consumer
+- Chef Marketplace
+- Meal Kits
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +49,26 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/cookunity-domain-security.yml
 - type: Website
   url: https://www.cookunity.com/
+- type: GettingStarted
+  url: https://www.cookunity.com/how-it-works
+- type: Blog
+  url: https://www.cookunity.com/blog
+- type: Support
+  url: https://support.cookunity.com/
+- type: SignUp
+  url: https://www.cookunity.com/api/auth/login?countryCode=US
+- type: TermsOfService
+  url: https://www.cookunity.com/terms
+- type: PrivacyPolicy
+  url: https://www.cookunity.com/privacy-policy
+- type: LLMsTxt
+  url: llms/cookunity-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

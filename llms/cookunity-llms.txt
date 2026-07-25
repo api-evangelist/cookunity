@@ -1,0 +1,178 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.cookunity.com/llms.txt
+---
+# CookUnity
+
+> CookUnity is the first chef-to-consumer meal marketplace, connecting award-winning chefs with food lovers nationwide. Chefs craft restaurant-quality meals in local kitchens and deliver them fresh — ready to heat in 2 minutes. With 300+ rotating dishes, CookUnity offers unparalleled variety across cuisines and dietary options. Plans range from 4 to 16 meals per week, starting from $12.59/meal (50% off the first week). Not meal kits. Not frozen. Just fresh, chef-crafted food.
+
+## Core Pages
+
+- [Home](https://www.cookunity.com/): Chef-crafted meal delivery overview, featured meals, chef roster, and plan pricing.
+- [Our Menu](https://www.cookunity.com/our-menu): Browse 300+ rotating chef-made meals filterable by diet, cuisine, protein, and lifestyle.
+- [How It Works](https://www.cookunity.com/how-it-works): Step-by-step explanation of plan selection, chef preparation, and weekly delivery.
+- [Why CookUnity](https://www.cookunity.com/why-cookunity): Brand values, chef empowerment model, responsible sourcing, and sustainability mission.
+- [Chefs](https://www.cookunity.com/chefs): Full directory of CookUnity's professional chef partners.
+- [Become a Chef](https://www.cookunity.com/become-a-chef): Information for culinary entrepreneurs looking to join the platform.
+- [CookUnity for Business](https://cookunity.com/business): Meal delivery programs for corporate, healthcare, and education organizations.
+- [Gift Cards](https://www.cookunity.com/gift-cards): Purchase and redeem CookUnity gift cards.
+- [Delivery Map](https://www.cookunity.com/delivery-map): Coverage areas and ZIP code eligibility.
+- [Sustainability](https://www.cookunity.com/sustainability): Packaging, food waste, carbon emissions, and reusable container programs.
+- [Blog](https://www.cookunity.com/blog): Recipes, chef diaries, diet guides, cuisine spotlights, and food news.
+- [FAQ](https://support.cookunity.com/): Help center covering plans, delivery, ingredients, and account management.
+- [Site Map](https://www.cookunity.com/site-map): Full index of all categories and content pages.
+
+---
+
+## Diets
+
+- [Mediterranean Diet](https://www.cookunity.com/diets/mediterranean): Olive oil, whole grains, vegetables, and lean proteins.
+- [Keto Diet](https://www.cookunity.com/diets/keto): High fat, very low carb meals for ketosis support.
+- [Vegan](https://www.cookunity.com/diets/vegan): 100% plant-based meals, no animal products whatsoever.
+- [Vegetarian](https://www.cookunity.com/diets/vegetarian): Meat-free meals featuring eggs, dairy, and produce.
+- [Paleo](https://www.cookunity.com/diets/paleo): Whole foods inspired by pre-agricultural human diets.
+- [Gluten Free](https://www.cookunity.com/diets/gluten-free): No wheat, barley, or rye-containing ingredients.
+- [Pescatarian](https://www.cookunity.com/diets/pescatarian): Plant-based eating with fish and seafood included.
+- [Low Carbs](https://www.cookunity.com/diets/low-carb): Reduced carbohydrate meals to support metabolic goals.
+- [Low Calories](https://www.cookunity.com/diets/low-calorie): Lighter portion meals for calorie-conscious eaters.
+- [Low Sodium](https://www.cookunity.com/diets/low-sodium): Heart-friendly meals with reduced salt content.
+- [High Protein](https://www.cookunity.com/diets/high-protein): Protein-packed meals for muscle building and satiety.
+- [Dairy Free](https://www.cookunity.com/diets/dairy-free): No milk, cheese, butter, or dairy derivatives.
+- [Carnivore](https://www.cookunity.com/diets/carnivore): Animal-only diet focused on meat and protein.
+- [Soy Free](https://www.cookunity.com/diets/soy-free): Meals made without soy or soy-derived ingredients.
+- [Nut Free](https://www.cookunity.com/diets/nut-free): Safe options with no tree nuts or peanuts.
+- [Low Sugar](https://www.cookunity.com/diets/low-sugar): Meals with minimal added or natural sugars.
+- [Low Fat](https://www.cookunity.com/diets/low-fat): Lighter meals with reduced total fat content.
+- [High Fat](https://www.cookunity.com/diets/high-fat): Fat-forward meals for keto and energy-dense needs.
+- [High Calorie](https://www.cookunity.com/diets/high-calorie): Calorie-dense meals for athletes or weight gain.
+- [Spicy](https://www.cookunity.com/diets/spicy): Bold, heat-forward dishes for spice lovers.
+- [Contains Nuts](https://www.cookunity.com/diets/contains-nuts): Meals featuring tree nuts or peanuts as ingredients.
+
+---
+
+## Cuisines
+
+- [American](https://www.cookunity.com/cuisines/american): Classic U.S. staples reimagined by professional chefs.
+- [American Comfort](https://www.cookunity.com/cuisines/american-comfort): Hearty, nostalgic dishes rooted in American home cooking.
+- [Modern American](https://www.cookunity.com/cuisines/modern-american): Contemporary U.S. cooking with refined, seasonal ingredients.
+- [American Fusion](https://www.cookunity.com/cuisines/american-fusion): American dishes blended with global culinary influences.
+- [Mexican](https://www.cookunity.com/cuisines/mexican): Authentic tacos, moles, and traditional Mexican flavors.
+- [Latin American](https://www.cookunity.com/cuisines/latin-american): Diverse flavors spanning South and Central America.
+- [Argentinian](https://www.cookunity.com/cuisines/argentinian): Grilled meats, empanadas, and bold South American flavors.
+- [Brazilian](https://www.cookunity.com/cuisines/brazilian): Vibrant dishes featuring tropical ingredients and grilled proteins.
+- [Caribbean](https://www.cookunity.com/cuisines/caribbean): Island-spiced dishes with tropical, sweet, and savory notes.
+- [Cuban](https://www.cookunity.com/cuisines/cuban): Slow-cooked meats, black beans, and citrus-forward flavors.
+- [Haitian](https://www.cookunity.com/cuisines/haitian): Spiced stews and rice dishes from Caribbean tradition.
+- [Jamaican](https://www.cookunity.com/cuisines/jamaican): Jerk-spiced, bold, and aromatic island cooking.
+- [Italian](https://www.cookunity.com/cuisines/italian): Pasta, risotto, and classic Italian regional cooking.
+- [French](https://www.cookunity.com/cuisines/french): Refined sauces, bistro classics, and Gallic technique.
+- [Spanish](https://www.cookunity.com/cuisines/spanish): Tapas-inspired dishes with saffron, paprika, and olive oil.
+- [Greek](https://www.cookunity.com/cuisines/greek): Lemon, herb, and olive oil-driven Mediterranean cooking.
+- [European](https://www.cookunity.com/cuisines/european): Broad range of traditional dishes across the continent.
+- [Eastern European](https://www.cookunity.com/cuisines/eastern-european): Hearty stews, dumplings, and Slavic culinary tradition.
+- [Nordic](https://www.cookunity.com/cuisines/nordic): Clean, minimalist cooking with Scandinavian seasonal produce.
+- [Irish](https://www.cookunity.com/cuisines/irish): Rustic, comforting dishes rooted in Irish tradition.
+- [English](https://www.cookunity.com/cuisines/english): British classics from roasts to savory pies.
+- [Asian](https://www.cookunity.com/cuisines/asian): Wide spectrum of East and Southeast Asian flavors.
+- [Chinese](https://www.cookunity.com/cuisines/chinese): Wok-fired dishes, dim sum, and regional Chinese cooking.
+- [Japanese](https://www.cookunity.com/cuisines/japanese): Umami-rich dishes rooted in Japanese culinary precision.
+- [Korean](https://www.cookunity.com/cuisines/korean): Fermented, bold, and spicy Korean flavors and proteins.
+- [Thai](https://www.cookunity.com/cuisines/thai): Aromatic curries and dishes balancing sweet, sour, and spice.
+- [Vietnamese](https://www.cookunity.com/cuisines/vietnamese): Fresh herbs, light broths, and bright Vietnamese flavors.
+- [Indian](https://www.cookunity.com/cuisines/indian): Spiced curries, lentils, and rich Indian culinary tradition.
+- [Filipino](https://www.cookunity.com/cuisines/filipino): Tangy, savory, and sweet Southeast Asian island cooking.
+- [Indonesian](https://www.cookunity.com/cuisines/indonesian): Coconut-based, spiced dishes from the Indonesian archipelago.
+- [Malaysian](https://www.cookunity.com/cuisines/malaysian): Bold fusion of Malay, Chinese, and Indian influences.
+- [Laotian](https://www.cookunity.com/cuisines/laotian): Herb-forward, fermented, and earthy Southeast Asian cooking.
+- [Middle Eastern](https://www.cookunity.com/cuisines/middle-eastern): Fragrant spices, hummus, and mezze-style sharing dishes.
+- [Israeli](https://www.cookunity.com/cuisines/israeli): Modern Israeli cooking blending Mediterranean and Middle Eastern roots.
+- [Iranian](https://www.cookunity.com/cuisines/iranian): Saffron-scented rice, stews, and Persian culinary heritage.
+- [Turkish](https://www.cookunity.com/cuisines/turkish): Grilled meats, flatbreads, and layered Ottoman-inspired flavors.
+- [African](https://www.cookunity.com/cuisines/african): Diverse, continent-spanning traditions with bold spicing.
+- [West African](https://www.cookunity.com/cuisines/west-african): Peanut stews, grilled meats, and bold West African spices.
+- [North African](https://www.cookunity.com/cuisines/north-african): Tagines, couscous, and aromatic Maghrebi cooking.
+- [South African](https://www.cookunity.com/cuisines/south-african): Braai traditions and diverse South African culinary heritage.
+- [Moroccan](https://www.cookunity.com/cuisines/moroccan): Cumin, cinnamon, and preserved lemon-laced Moroccan dishes.
+- [Egyptian](https://www.cookunity.com/cuisines/egyptian): Ancient grain dishes and hearty Egyptian street food tradition.
+
+---
+
+## Proteins
+
+- [Chicken](https://www.cookunity.com/proteins/chicken): Versatile, lean poultry prepared across global culinary styles.
+- [Salmon](https://www.cookunity.com/proteins/salmon): Rich, omega-3-packed fish in a variety of preparations.
+- [Beef](https://www.cookunity.com/proteins/beef): Premium cuts and ground beef across all cooking styles.
+- [Steak](https://www.cookunity.com/proteins/steak): Chef-seared steaks with bold seasoning and sauces.
+- [Brisket](https://www.cookunity.com/proteins/brisket): Slow-braised beef brisket, tender and deeply flavored.
+- [Short Rib](https://www.cookunity.com/proteins/short-rib): Fall-off-the-bone braised beef short rib dishes.
+- [Ground Beef](https://www.cookunity.com/proteins/ground-beef): Seasoned ground beef in bowls, sauces, and more.
+- [Pork](https://www.cookunity.com/proteins/pork): Full range of pork cuts prepared by professional chefs.
+- [Pork Ribs](https://www.cookunity.com/proteins/pork-ribs): Slow-cooked, smoky, and glazed pork rib dishes.
+- [Shrimp](https://www.cookunity.com/proteins/shrimp): Tender shrimp in global sauces, grains, and stir-fries.
+- [Tuna](https://www.cookunity.com/proteins/tuna): Seared, raw, or marinated tuna in chef creations.
+- [Cod](https://www.cookunity.com/proteins/cod): Flaky white fish prepared with diverse global techniques.
+- [Scallop](https://www.cookunity.com/proteins/scallop): Pan-seared or roasted scallops with refined accompaniments.
+- [Crab](https://www.cookunity.com/proteins/crab): Sweet, delicate crab featured in chef-crafted seafood dishes.
+- [Seafood](https://www.cookunity.com/proteins/seafood): Broad selection of ocean proteins from top chefs.
+- [Lamb](https://www.cookunity.com/proteins/lamb): Roasted, grilled, or braised lamb across global cuisines.
+- [Turkey](https://www.cookunity.com/proteins/turkey): Lean poultry dishes seasoned and prepared by chefs.
+- [Duck](https://www.cookunity.com/proteins/duck): Rich, flavorful duck in globally inspired preparations.
+- [Tofu](https://www.cookunity.com/proteins/tofu): Crispy, silken, or baked tofu in plant-based dishes.
+- [Plant Based Protein](https://www.cookunity.com/proteins/plant-based-protein): High-protein, animal-free alternatives for vegan and vegetarian meals.
+- [Mushroom](https://www.cookunity.com/proteins/mushroom): Meaty mushroom varieties as the star plant-based protein.
+- [Eggs](https://www.cookunity.com/proteins/eggs): Egg-forward dishes from breakfast to savory dinner options.
+- [Vegetarian](https://www.cookunity.com/proteins/vegetarian): Meat-free proteins including legumes, grains, and dairy.
+
+---
+
+## Lifestyles & Special Occasions
+
+### Lifestyles
+- [Athletes](https://www.cookunity.com/diet/athletes): High-protein, performance-focused meals for active people.
+- [Families](https://www.cookunity.com/diet/family): Crowd-pleasing, family-friendly meals everyone will enjoy.
+- [Seniors](https://www.cookunity.com/diet/seniors): Nutritious, easy-to-eat meals tailored for older adults.
+- [New Parents](https://www.cookunity.com/diet/new-parents): Convenient, nourishing meals for busy new caregivers.
+
+### Special Occasions
+- [Thanksgiving](https://www.cookunity.com/diet/thanksgiving): Seasonal holiday meals with classic Thanksgiving-inspired flavors.
+- [4th of July](https://www.cookunity.com/diet/four-of-july): Summer grilling and festive American dishes for celebrations.
+- [Memorial Day](https://www.cookunity.com/diet/memorial-day): Outdoor-ready, seasonal meals for Memorial Day gatherings.
+- [Back to School](https://www.cookunity.com/lp/back-to-school-kids-meals): Kid-friendly meals to simplify the back-to-school season.
+
+---
+
+## Kitchen Locations
+
+- [New York City](https://www.cookunity.com/us/new-york): Chef meals delivered fresh across NYC and surroundings.
+- [Los Angeles](https://www.cookunity.com/us/los-angeles): Fresh chef-crafted delivery throughout greater Los Angeles.
+- [Chicago](https://www.cookunity.com/us/chicago): Weekly meal delivery serving Chicago and nearby areas.
+- [Austin](https://www.cookunity.com/us/austin): Chef-made meals delivered to Austin and central Texas.
+- [Seattle](https://www.cookunity.com/us/seattle): Fresh meal delivery across Seattle and the Pacific Northwest.
+- [Atlanta](https://www.cookunity.com/us/atlanta): Chef-crafted meals delivered throughout the Atlanta metro.
+- [Miami](https://www.cookunity.com/us/miami): Fresh, globally inspired delivery across greater Miami.
+- [Toronto](https://www.cookunity.com/us/toronto): Chef-made meal delivery available across Toronto, Canada.
+
+---
+
+## Featured Chefs
+
+- [Emily Peck](https://www.cookunity.com/chefs/emily-peck): Known for creative, flavor-forward and produce-driven cooking.
+- [Jose Garces](https://www.cookunity.com/chefs/jose-garces): James Beard Award winner specializing in Latin cuisine.
+- [Esther Choi](https://www.cookunity.com/chefs/esther-choi): Korean-American chef celebrated for bold, innovative flavors.
+- [Pierre Thiam](https://www.cookunity.com/chefs/pierre-thiam): West African cuisine pioneer with globally recognized recipes.
+- [Akhtar Nawab](https://www.cookunity.com/chefs/akhtar-nawab): Modern Indian cooking with refined, contemporary techniques.
+- [Michelle Bernstein](https://www.cookunity.com/chefs/michelle-bernstein): James Beard winner crafting Latin-inflected contemporary cuisine.
+- [Einat Admony](https://www.cookunity.com/chefs/einat-admony): Israeli-born chef celebrated for vibrant Middle Eastern flavors.
+- [John DeLucie](https://www.cookunity.com/chefs/john-delucie): NYC culinary icon elevating American comfort food.
+- [Fabiola Rivera](https://www.cookunity.com/chefs/fabiola-rivera): Mexican-inspired chef known for bright, coastal flavors.
+- [Dustin Taylor](https://www.cookunity.com/chefs/dustin-taylor): Contemporary American cooking with seasonal, approachable dishes.
+
+---
+
+## Featured Blog Posts
+
+- [What Women Are Eating Based on CookUnity Data](https://www.cookunity.com/blog): CookUnity data shows nearly 2 in 3 meals ordered by women in 2025 are protein-forward, with bold global flavors replacing outdated diet stereotypes. (March 2026)
+- [James Beard Chefs Expand Beyond Restaurant Walls Through New CookUnity Menu](https://www.cookunity.com/blog): Celebrated chefs from the James Beard Foundation's Taste America® series are now available across the US, extending restaurant-quality dining beyond geography. (March 2026)
+- [Women Chefs Are Building Million-Dollar Food Businesses](https://www.cookunity.com/blog): Three of the five fastest-growing chefs on CookUnity in 2025 are women, building significant food businesses beyond traditional restaurants. (March 2026)
+- [Mexican Dishes: 12 Classics You Should Know](https://www.cookunity.com/blog): A guide to traditional Mexican food — corn tortillas, dried chilies, slow-cooking techniques — and what separates tacos, enchiladas, and mole from Tex-Mex. (March 2026)
+- [Beyond the Pill: Why Chef-Crafted Meals Are the New Medical Standard](https://www.cookunity.com/blog): Explores 2026 JAMA research on Food is Medicine and how CookUnity is leading the shift toward medically tailored, chef-crafted meals that impact health outcomes. (March 2026)
