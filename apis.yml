@@ -52,6 +52,15 @@ tags:
 - Subscription
 - Consumer
 - Chef Marketplace
+- Meal Kit
+tags_raw:
+- Company
+- Meal Delivery
+- Food
+- Marketplace
+- Subscription
+- Consumer
+- Chef Marketplace
 - Meal Kits
 apis: []
 maintainers:
